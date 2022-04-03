@@ -1,0 +1,19 @@
+ul {
+    width: 50%;
+    height: 2cm;
+    padding: 1cm 0 0 0;
+    border: 20px green dotted;
+    position: absolute;
+}
+
+li {
+    background-color: lightseagreen;
+    height: 1cm;
+    padding: 3mm;
+    list-style: none;
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    top: -10px;
+    left: 40%;
+}
